@@ -1,9 +1,11 @@
-title: Enter Coolest Projects
+title: default-project-template
 hero_image: images/banner.png
-description: Enter Coolest Projects
+description: default-project-template description
 version: 4
 listed: false
 copyedit: false
-last_tested: "2023-09-28"
+last_tested: "2022-05-19"
 steps:
-  - title: Enter Coolest Projects
+  - title: Introduction
+  - title: Step title
+  - title: What next?
