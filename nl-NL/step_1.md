@@ -2,4 +2,4 @@ Bekijk [Coolest Projects](https://coolestprojects.org/){:target="_blank"}, 's we
 
 Je project hoeft niet af te zijn - prototypes en werk in uitvoering zijn ook welkom! Wanneer je je project hebt aangemeld, wordt je creatie tentoongesteld in de Coolest Projects online galerij, zodat mensen over de hele wereld het kunnen zien! Sluit je aan bij andere jongeren om als één community elkaars prestaties te vieren en te erkennen.
 
-Je kunt het [Inleiding tot micro:bit](https://projects.raspberrypi.org/nl-NL/pathways/microbit-intro){:target="_blank"} pad en de Coolest Projects [Hoe maak ik een project] (https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} bronnen gebruiken om je te helpen bij het plannen en bouwen van jouw originele project.
+Je kunt het [Inleiding tot micro:bit](https://projects.raspberrypi.org/nl-NL/pathways/microbit-intro){:target="_blank"} pad en de Coolest Projects [Hoe maak ik een project](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} bronnen gebruiken om je te helpen bij het plannen en bouwen van jouw originele project.
