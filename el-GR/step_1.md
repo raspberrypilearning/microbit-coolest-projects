@@ -1,0 +1,5 @@
+Check out [Coolest Projects](https://coolestprojects.org/){:target="\_blank"}, the world’s leading technology showcase for young people! On the [Coolest Projects website](https://coolestprojects.org/){:target="\_blank"}, you can find out more about the project categories and see when project registration is open, then get ready to register your project!
+
+Το έργο σου δεν χρειάζεται να έχει ολοκληρωθεί - αρχικά πρωτότυπα καθώς και έργα σε εξέλιξη είναι επίσης ευπρόσδεκτα! Όταν ολοκληρώσεις την εισαγωγή του έργου σου η δημιουργία σου θα προβληθεί στην online γκαλερί Coolest Projects, για να τη δουν οι άνθρωποι σε όλο τον κόσμο! Θα συναντήσεις άλλους νέους για να γιορτάσετε και να αναγνωρίσετε ο ένας τα επιτεύγματα του άλλου ως κοινότητα.
+
+You can use the [Introduction to micro:bit](https://projects.raspberrypi.org/en/pathways/microbit-intro){:target="\_blank"} path and the Coolest Projects [How to make a project](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="\_blank"} resources to help you plan and build your original project.
