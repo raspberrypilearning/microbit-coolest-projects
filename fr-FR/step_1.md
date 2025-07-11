@@ -1,0 +1,5 @@
+Découvre [Coolest Projects](https://coolestprojects.org/){:target="\_blank"}, la vitrine technologique leader mondial pour les jeunes ! Sur le site [Coolest Projects](https://coolestprojects.org/){:target="\_blank"}, tu peux en savoir plus sur les catégories de projets et voir quand l'inscription des projets est ouverte, puis prépare-toi à enregistrer ton projet !
+
+Ton projet n'a pas besoin d'être terminé, les prototypes et les projets en cours sont également les bienvenus ! Lorsque tu auras inscrit ton projet, ta création sera présentée dans la galerie en ligne Coolest Projects, pour que les gens du monde entier puissent la voir ! Rejoins d'autres jeunes pour célébrer et reconnaître les réalisations de chacun·e en tant que communauté.
+
+Tu peux utiliser le parcours [Introduction à micro:bit](https://projects.raspberrypi.org/fr-FR/pathways/microbit-intro){:target="\_blank"} et les ressources Coolest Projects [Comment faire un projet](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="\_blank"} pour t'aider à planifier et créer ton projet original.
